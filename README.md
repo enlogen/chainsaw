@@ -1,15 +1,14 @@
 TheHub
 ======
 
-This repo holds the code base for the main project (i.e. The Hub)
+This repo holds the code base for the main project.
 
-See https://github.com/HouseWare/TheHub/wiki for documentation.
 
 Setup
 =====
 
 ```
-git clone https://github.com/HouseWare/TheHub.git
+git clone https://github.com/enlogen/chainsaw.git
 cd TheHub
 virtualenv -p /usr/bin/python3 ~/.virtualenvs/thehub
 source ~/.virtualenvs/thehub/bin/activate
