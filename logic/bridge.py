@@ -1,14 +1,13 @@
-#!/usr/bin/env python
-
-
+import re
 import sys
 import time
-import serial
 import queue
+import serial
 import threading
-import re
+
 from sqlalchemy import *
 from sqlalchemy.orm import *
+
 from ..database import db
 
 
